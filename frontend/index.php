@@ -50,8 +50,8 @@ Author URL: http://w3layouts.com
                                 Categories <span class="fa fa-angle-down"></span>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item @@cp__active" href="technology.html">Technology posts</a>
-                                <a class="dropdown-item @@ls__active" href="lifestyle.html">Lifestyle posts</a>
+                                <a class="dropdown-item @@cp__active" href="technology.php">Technology posts</a>
+                                <a class="dropdown-item @@ls__active" href="lifestyle.php">Lifestyle posts</a>
                             </div>
                         </li>
                         <li class="nav-item @@contact__active">
