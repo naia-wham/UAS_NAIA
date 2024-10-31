@@ -154,7 +154,7 @@ Author URL: http://w3layouts.com
               </div>
               <div class="cont-right">
                 <h6>Email Us</h6>
-                <p><a href="mailto:example@mail.com" class="mail">example@mail.com</a></p>
+                <p><a href="mailto:example@mail.com" class="mail">naiafatiha2703.com</a></p>
               </div>
             </div>
           </div>
