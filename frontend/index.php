@@ -55,7 +55,7 @@ Author URL: http://w3layouts.com
                             </div>
                         </li>
                         <li class="nav-item @@contact__active">
-                            <a class="nav-link" href="contact.html">Contact</a>
+                            <a class="nav-link" href="contact.php">Contact</a>
                         </li>
                         <li class="nav-item @@about__active">
                             <a class="nav-link" href="about.html">About</a>

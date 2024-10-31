@@ -10,7 +10,7 @@ Author URL: http://w3layouts.com
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Contact</title>
+  <title>Design Blog a Blog Category Bootstrap Responsive Website Template | Contact : W3layouts</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
@@ -42,7 +42,7 @@ Author URL: http://w3layouts.com
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item @@home__active">
-              <a class="nav-link" href="index.php">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item dropdown @@category__active">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -50,7 +50,7 @@ Author URL: http://w3layouts.com
                 Categories <span class="fa fa-angle-down"></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item @@ls__active" href="lifestyle.php">Lifestyle posts</a>
+                <a class="dropdown-item @@ls__active" href="lifestyle.html">Lifestyle posts</a>
                 <a class="dropdown-item @@cp__active" href="culture.html">Culture posts</a>
               </div>
             </li>
@@ -84,7 +84,7 @@ Author URL: http://w3layouts.com
             </a>
             <div class="align-self ml-3">
               <a href="#author">
-                <h5>Naia</h5>
+                <h5>Na</h5>
               </a>
               <span>Blog Writer</span>
             </div>
@@ -136,7 +136,7 @@ Author URL: http://w3layouts.com
               </div>
               <div class="cont-right">
                 <h6>Address</h6>
-                <p>Jl.PGA No.10</p>
+                <p>#135 block, Barnard St. Brooklyn, NY 10036, USA</p>
               </div>
             </div>
             <div class="cont-top margin-up">
@@ -145,7 +145,7 @@ Author URL: http://w3layouts.com
               </div>
               <div class="cont-right">
                 <h6>Call Us</h6>
-                <p><a href="tel:+(12)234-11-2446">08991234567</a> </p>
+                <p><a href="tel:+(12)234-11-2446">08991399495</a>
               </div>
             </div>
             <div class="cont-top margin-up">
@@ -154,7 +154,7 @@ Author URL: http://w3layouts.com
               </div>
               <div class="cont-right">
                 <h6>Email Us</h6>
-                <p><a href="mailto:example@mail.com" class="mail">naiafatiha2703.com</a></p>
+                <p><a href="mailto:example@mail.com" class="mail">example@mail.com</a></p>
               </div>
             </div>
           </div>
